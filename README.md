@@ -1,2 +1,3 @@
-# nombre-del-cuento
-Taller de hipervínculo y estructuras narrativas
+# El título de este archivo es el nombre del cuento
+
+Transcribir acá el cuento original
